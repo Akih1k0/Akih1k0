@@ -38,8 +38,8 @@ I am a Junior Cloud Engineer, embarking on my coding journey.
 
 ### 🎴 Cloud Engineering Projects :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akih1k0&theme=tokyonight&repo=azure-database-migration158)](https://github.com/Akih1k0/azure-database-migration158)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akih1k0&theme=tokyonight&repo=multinational-retail-data-centralisation386)](https://github.com/Akih1k0/multinational-retail-data-centralisation386)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akih1k0&theme=tokyonight&repo=Azure-Database-Migration)](https://github.com/Akih1k0/Azure-Database-Migration)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akih1k0&theme=tokyonight&repo=Multinational-Retail-Data-Centralisation)](https://github.com/Akih1k0/Multinational-Retail-Data-Centralisation)
 
 ---
 
